@@ -1,0 +1,9 @@
+* MSSEG 2016 poster presentation
+
+ Poster for the [[https://portal.fli-iam.irisa.fr/msseg-challenge/overview][MICCAI2016 MSSEG challenge]]. 
+
+** Included files:
++ Poster background
++ Proposed poster
+
+
